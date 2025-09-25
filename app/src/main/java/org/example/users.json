@@ -1,0 +1,17 @@
+[ {
+  "name" : "umar",
+  "password" : "12345",
+  "hash_pass" : "$2a$10$XN8pfM//jA0x0evyY2iFIOER7N43LDIL3uQGjcSXgnQhcbLMzBrbe",
+  "department" : "aids",
+  "year" : "sy",
+  "email" : "shsh",
+  "phone_num" : 45678
+}, {
+  "name" : "husaqin",
+  "password" : "hshs",
+  "hash_pass" : "$2a$10$9gbZE85llFIawAiwazQi9u2KeHBHNGDHcCKuaIiu6Qyr4a1mnfJ0K",
+  "department" : "siad",
+  "year" : "gd",
+  "email" : "hdd",
+  "phone_num" : 1234567
+} ]
